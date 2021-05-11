@@ -1,0 +1,11 @@
+created django 3.2.2 project
+created custom user model system
+
+git branch -m main master
+git fetch origin
+git branch -u origin/master master
+git remote set-head origin -a
+
+
+https://github.com/seun-otosho/DjangoNewProject.git
+
